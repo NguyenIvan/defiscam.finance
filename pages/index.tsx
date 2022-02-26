@@ -9,6 +9,7 @@ const Home: NextPage = () => {
         <meta name="description" content="We bust all scams" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      <comp.header />
       <comp.comp_1 />
 
     </>

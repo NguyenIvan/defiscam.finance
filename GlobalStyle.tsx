@@ -19,7 +19,6 @@ const GlobalStyle = createGlobalStyle `
         overflow-x: hidden;
         width: 100%;
         color: whitesmoke;
-        font-size: 1.4rem;        
     }
     p {
         font-weight: lighter;
@@ -78,3 +77,4 @@ export const H1 = styled.h1`  {
   `
 
 export default GlobalStyle;
+
