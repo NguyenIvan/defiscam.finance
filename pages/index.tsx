@@ -12,6 +12,8 @@ const Home: NextPage = () => {
       <comp.header />
       <comp.comp_1 />
       <comp.comp_2 />
+      <comp.comp_3 />
+      {/* https://fintelegram.com/ico-more-than-1-6-billion-scammed/ */}
 
     </>
 
