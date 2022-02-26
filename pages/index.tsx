@@ -11,6 +11,7 @@ const Home: NextPage = () => {
       </Head>
       <comp.header />
       <comp.comp_1 />
+      <comp.comp_2 />
 
     </>
 
